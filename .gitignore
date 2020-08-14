@@ -1,1 +1,5 @@
+*.olean
+/_target
+/leanpkg.path
+/leanpkg.toml
 .DS_Store
